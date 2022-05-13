@@ -1,4 +1,7 @@
-# Furry game
+# Furry Game
+A simple browser application developed using OOP in Javascript.
 
-## App made using JS, check it out
+Have a nice game ;-)
+<br>
+
 ### https://furry-game-476ee.web.app/
